@@ -9,3 +9,15 @@ Welcome to my dedicated DSA practice repository. This repository tracks my conti
 
 ## 🛠️ Automated Sync
 Solutions are automatically formatted and synced to this repository upon passing all test cases on LeetCode. 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
