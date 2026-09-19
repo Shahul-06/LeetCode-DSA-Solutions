@@ -15,9 +15,18 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
