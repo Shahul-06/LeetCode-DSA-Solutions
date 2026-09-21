@@ -15,6 +15,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
@@ -37,6 +38,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
