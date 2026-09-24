@@ -17,6 +17,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0001-two-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -42,6 +43,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0001-two-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
@@ -53,6 +55,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -71,4 +74,8 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
