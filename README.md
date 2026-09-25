@@ -20,6 +20,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -44,6 +45,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0001-two-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Prefix Sum
@@ -67,6 +69,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +82,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +91,20 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
