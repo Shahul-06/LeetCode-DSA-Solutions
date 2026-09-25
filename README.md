@@ -55,6 +55,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
@@ -78,4 +79,12 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
