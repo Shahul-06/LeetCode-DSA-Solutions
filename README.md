@@ -19,6 +19,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -32,6 +33,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
@@ -82,6 +84,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
@@ -107,4 +110,12 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
