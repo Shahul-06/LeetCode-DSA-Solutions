@@ -22,6 +22,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -92,6 +93,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -125,4 +127,8 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
