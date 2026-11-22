@@ -43,6 +43,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0011-container-with-most-water) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0125-valid-palindrome](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,4 +145,8 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
