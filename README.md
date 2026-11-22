@@ -21,6 +21,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +71,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -126,9 +129,18 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
