@@ -27,6 +27,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
+| [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
 |  |
@@ -85,6 +86,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Math
 |  |
 | ------- |
@@ -155,8 +157,10 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
