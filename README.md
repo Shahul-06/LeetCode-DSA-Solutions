@@ -22,6 +22,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Math
@@ -156,6 +158,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -163,4 +166,12 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
