@@ -26,6 +26,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -88,6 +89,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Math
 |  |
@@ -160,6 +162,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
@@ -174,4 +177,5 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
