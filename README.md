@@ -87,6 +87,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -95,6 +96,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -172,10 +175,12 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
