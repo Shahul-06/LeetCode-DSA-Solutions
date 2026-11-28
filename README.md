@@ -22,6 +22,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0075-sort-colors](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -34,6 +35,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -88,6 +90,7 @@ Solutions are automatically formatted and synced to this repository upon passing
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
@@ -183,4 +186,8 @@ Solutions are automatically formatted and synced to this repository upon passing
 | [0279-perfect-squares](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Shahul-06/LeetCode-DSA-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
